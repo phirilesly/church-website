@@ -414,7 +414,7 @@ p {
 
 .custom-social-icons li:hover a {
 		background: transparent !important;
-		color: #da7940 !important;
+		color: #ffe338 !important;
 }
 
 .custom-social-icons-2 li, .custom-social-icons-big li {
@@ -429,12 +429,12 @@ p {
 }
 
 .custom-social-icons-2 li:hover, .custom-social-icons-big li:hover {
-		border-color: #da7940;
+		border-color: #ffe338;
 }
 
 .custom-social-icons-2 li:hover a, .custom-social-icons-big li:hover a {
 		background: transparent !important;
-		color: #da7940 !important;
+		color: #ffe338 !important;
 }
 
 .custom-social-icons-big {
@@ -559,7 +559,7 @@ p {
 		right: -2px;
 		left: auto;
 		width: 100%;
-		border-top: 1px solid #da7940;
+		border-top: 1px solid #ffe338;
 		transform: translateY(-50%);
 }
 
@@ -571,8 +571,8 @@ p {
 		right: 0;
 		width: 25px;
 		height: 25px;
-		border-top: 1px solid #da7940;
-		border-right: 1px solid #da7940;
+		border-top: 1px solid #ffe338;
+		border-right: 1px solid #ffe338;
 		transform: translateY(-50%) rotate(45deg);
 }
 
